@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lorenzo
 - 👀 I’m interested in Computer science, software development 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java Spring
 - 📫 How to reach me email: laenza98@gmail.com
   
 
