@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lorenzo
+- 👋 Hi, I’m Lorenzo, i am a professional software engineer.
 - 👀 I’m interested in Computer science, software development 
 - 🌱 I’m currently focused on frontend development, especially in Angular 2+.
   
