@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Lorenzo, i am a professional software engineer.
-- 👀 I’m interested in Computer science, software development 
-- 🌱 I’m currently focused on frontend development, especially in Angular 2+.
+- 👋 Hi, I’m Lorenzo, i am a professional Web Developer.
+- 👀 I build websites, web applications and mobile applications.
   
 ## Connect with me
 [<img align="left" alt="linked-in" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lorenzodelgaudio/)
